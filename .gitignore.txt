@@ -1,0 +1,2 @@
+# Ignore JobApplication directory
+JobApplication/
